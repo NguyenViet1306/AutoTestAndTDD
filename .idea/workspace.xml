@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a3cc0cb-378a-4feb-bc00-c6572417437f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../BTVN/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN/src/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN/src/BTVN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN/src/Bai7GiaoVIen/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN/src/Bai7GiaoVIen/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN/src/Bai7GiaoVIen/ManageTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN/src/Bai7GiaoVIen/bai7.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN/src/Bai8/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN/src/Bai8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN/src/Bai8/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN/src/Bai8/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN/src/out/production/BTVN/BTVN.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BTVN/src/out/production/BTVN/Bai8/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOTextFile/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOTextFile/.idea/IOTextFile.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOTextFile/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOTextFile/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOTextFile/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOTextFile/src/.idea/src.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOTextFile/src/ThucHanh/TotalFileText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AbstractAndInterface/src/BaiTap/apjshape" beforeDir="false" afterPath="$PROJECT_DIR$/../AbstractAndInterface/src/BaiTap/apjshape" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutoTestAndTDD.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ThucHanh/apj-junit-calculator" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThucHanh/apj-junit-calculator" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN/BTVN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN/BTVN.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN/src/LapTrinhHuongDoiTuong/QLCB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN/src/LapTrinhHuongDoiTuong/QLCB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN/src/bai2OOP/ManagerLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN/src/bai2OOP/ManagerLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN/src/bai3/Admissions.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN/src/bai3/Admissions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN/src/bai4/Street.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN/src/bai4/Street.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN/src/bai6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN/src/Bai6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN/src/bai6/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN/src/Bai6/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BTVN/src/bai6/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BTVN/src/Bai6/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modunle2TongHop/C0422H1-Md2-Basic" beforeDir="false" afterPath="$PROJECT_DIR$/../modunle2TongHop/C0422H1-Md2-Basic" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2B0VELIHFUlHXJK1CFeZjFpvIdq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/CODEGYM/Module 2/BTVN"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a3cc0cb-378a-4feb-bc00-c6572417437f" name="Changes" comment="" />
+      <created>1656042877015</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656042877015</updated>
+      <workItem from="1656042878208" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
